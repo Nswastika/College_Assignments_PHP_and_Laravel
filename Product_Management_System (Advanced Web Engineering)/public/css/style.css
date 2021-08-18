@@ -1,0 +1,80 @@
+body {
+  background-color: #E5FEFF;
+  
+}
+
+div {
+  box-sizing: border-box;   
+}
+
+#card{
+  background-color: red;
+}
+
+h5 {
+  /* font-family: verdana;
+  font-size: 18px; */
+  font-family: 'Times New Roman', serif; 
+}
+
+
+p {
+  font-family: verdana;
+  font-size: 15px;
+}
+
+
+#bookdetail{
+  border: 15px solid  #E5FEFF;
+  background-color: white;
+  padding: 25px 25px 25px 25px;
+  border-radius: 50px;
+  
+}
+
+ 
+#cddetail{
+  border: 15px solid  #E5FEFF;
+  background-color: white;
+  padding: 25px 25px 25px 25px;
+  border-radius: 50px;
+}
+
+ 
+#addform{
+  border: 15px solid  #E5FEFF;
+  background-color: white;
+  padding: 25px 25px 25px 25px;
+  border-radius: 50px;
+}
+
+#singlecd{
+  border: 15px solid #E5FEFF;
+  background-color: white;
+  padding: 25px 25px 25px 25px;
+  border-radius: 50px;
+}
+
+#singlebook{
+  border: 15px solid #E5FEFF;
+  background-color: white;
+  padding: 25px 25px 25px 25px;
+  border-radius: 50px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;   
+}
+
+.footer {
+  position: not-fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
